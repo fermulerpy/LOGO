@@ -29,6 +29,6 @@ plt.fill(real_val[300:900],img_val[300:900],color='midnightblue')
 #ax = plt.axes()
 #ax.set_facecolor('black')
 #plt.title("zeta")
-plt.savefig(fname='logo0.png',transparent=True,dpi=1500)
+#plt.savefig(fname='logo0.png',transparent=True,dpi=1500)
 plt.show()
 
